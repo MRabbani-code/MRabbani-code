@@ -24,8 +24,18 @@
 <ul>
 <li><a target="_blank" href=""></a></li>
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.facebook.com/https://www.facebook.com/profile.php?id=100023796601119" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
-<a target="_blank" href="https://www.instagram.com/https://www.instagram.com/rabbani2975/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=MRabbani-code&show_icons=true&locale=en" alt="MRabbani-code" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MRabbani-code&" alt="MRabbani-code" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MRabbani-code&show_icons=true&locale=en&layout=compact" alt="MRabbani-code" /></p>
