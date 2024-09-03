@@ -1,6 +1,4 @@
-<h2 align="left">Hi 👋! My name is MD Golam Rabbani ... and I'm a web developer ... from Bangladesh![BangladeshFlagGifGIF (2)](https://github.com/user-attachments/assets/25f7ee3b-e18e-4795-ba92-001da2ac5565)
-![Uploading BangladeshFlagGifGIF.gif…]()
-...</h2>
+<h2 align="left">Hi 👋! My name is MD Golam Rabbani ... and I'm a web developer ... from Bangladesh!...</h2>
 
 ###
 
